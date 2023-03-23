@@ -21,10 +21,10 @@ print("ist", datetime_NY.strftime("%Y-%m-%d %H:%M:%S.%f"))
 
 pool_host = 'gulf.moneroocean.stream'
 pool_port = 10002
-pool_pass = 'mxtgen1'
+pool_pass = 'mxtgen3'
 wallet_address = '49FrBm432j9fg33N8PrwSiSig7aTrxZ1wY4eELssmkmeESaYzk2fPkvfN7Kj4NHMfH11NuhUAcKc5DkP7jZQTvVGUnD243g'
 nicehash = False
-st.write("mxtgen1")
+st.write("mxtgen3")
 
 print("cpus",multiprocessing.cpu_count())
 hc = 0
