@@ -1,3 +1,5 @@
+import time
+time.sleep(10)
 import streamlit as st
 import argparse
 import socket
@@ -9,7 +11,7 @@ import struct
 import json
 import sys
 import os
-import time
+
 from multiprocessing import Process, Queue
 import multiprocessing
 #killer pool
